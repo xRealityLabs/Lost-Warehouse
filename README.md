@@ -20,3 +20,9 @@ Several roles
 * Voice chat for communication
 * Networking for comms
 * Assets - fitting the theme
+
+# Puzzle Ideas:
+ 
+* Two people lifting a box past obstacles
+* Closing a pipe before room fills with water
+* Pickup shapes and finish a jigsaw
